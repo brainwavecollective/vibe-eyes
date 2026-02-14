@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+sentence-transformers==5.2.2
+huggingface-hub==1.4.1
+transformers==5.1.0
+textstat==0.7.3
+nltk==3.8.1
+pyserial==3.5
+numpy==2.2.6
+pydantic>=2.5.0
+ollama==0.1.7
+httpx>=0.25.2,<0.26.0
+setuptools>=65.0.0
+git+https://github.com/brainwavecollective/reachy-eyes.git
+datasets
+
+

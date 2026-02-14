@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+
+
+.env
+.venv
+*.log
+
+
+# Local lexicons / licensed data
+data/
+
